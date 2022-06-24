@@ -15,12 +15,4 @@
 
 ---  
 
-<!-- Its main projects -->
-<p align="left">
-  <a href="https://github.com/klelee/arch_install">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=klelee&repo=arch_install" />
-  </a>
-  <a href="https://github.com/klelee/arch_config">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=klelee&repo=arch_config" />
-  </a>
-</p>
+
