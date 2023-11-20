@@ -1,6 +1,5 @@
 # Hello, Im Klelee!
 
-## About Me
 ```c
 /**
  * Filename : main.c
