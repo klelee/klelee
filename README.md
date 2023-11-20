@@ -13,5 +13,5 @@ struct about me = {
     .position = "China·QingDao";
     .email = "im.klelee@gmail.com"
     .pages = "klelee.com";
-}
+};
 ```
